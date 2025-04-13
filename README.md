@@ -9,8 +9,6 @@ A powerful multimodal chatbot built using **Streamlit** and **Google Gemini 1.5 
 
 -----
 
-## 🛠️ Installation and run
-
 ## 🛠️ **Installation and run**
 
 1. **Clone the repo**  
@@ -24,8 +22,8 @@ A powerful multimodal chatbot built using **Streamlit** and **Google Gemini 1.5 
    `python -m streamlit run chatbot.py`  
 
 ---
-
-**Note:Use Your Google AI Studio API key🔑**:  
+### ✨ **Note: Use Your Google AI Studio API key 🔑**  
+ 
 🔍 **How to Get Your API Key**:  
 1. Go to Google AI Studio. 
 2. Sign in with your Google account. 
