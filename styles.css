@@ -1,0 +1,34 @@
+.block-container { padding-top: 1rem; }
+.chat-input-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    padding: 0.5rem 1rem 1rem 1rem;
+    border-top: 1px solid #ddd;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+}
+.prompt-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border-radius: 2rem;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: #f7f7f9;
+}
+[data-testid="stFileUploadDropArea"] > div:nth-of-type(2) {
+    display: none;
+}
+[data-baseweb="fileUploader"] {
+    font-size: 12px;
+    width: 110px;
+    height: 35px;
+    padding: 0.25rem 0.5rem;
+}
+textarea {
+    border-radius: 1.5rem !important;
+    padding: 0.75rem 1rem !important;
+    resize: none !important;
+    line-height: 1.4 !important;
+}
