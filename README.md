@@ -5,7 +5,7 @@ A powerful multimodal chatbot built using **Streamlit** and **Google Gemini 1.5 
 - 📎 Text + Image input
 - 📄 PDF / DOCX / PPTX document understanding
 - 💡 One-click smart suggestions
-- 🧾 Clean UI with bottom sticky input bar
+- 🧾 Clean UI with sticky input bar
 
 -----
 
